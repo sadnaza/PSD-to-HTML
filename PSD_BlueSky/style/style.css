@@ -1,0 +1,192 @@
+body{
+    width: 1200px;
+    height: 1141px;
+    position: absolute;
+    left: 50%;
+    margin-left: -600px;
+    overflow-x: hidden;
+    background-image: url("../pic/back.png");
+    background-size: 100%;
+}
+#footer{
+    position: absolute;
+    left: 121px;
+    top: 1041px;
+    width: 959px;
+    height: 110px;
+    background-image: url("../pic/footer.png");
+    background-repeat: no-repeat;
+}
+.soc{
+    position: absolute;
+    top: 1051px;
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+}
+#soc1{
+    left: 135px;
+    background-image: url("../pic/soc1.png");
+}
+#soc2{
+    left: 170px;
+    background-image: url("../pic/soc2.png");
+}
+#soc3{
+    left: 205px;
+    background-image: url("../pic/soc3.png");
+}
+#soc4{
+    left:240px;
+    background-image: url("../pic/soc4.png");
+}
+#nav{
+    position: absolute;
+    left: 121px;
+    top: 74px;
+    width: 959px;
+    height: 393px;
+    background-image: url("../pic/nav.png");
+}
+#menu{
+    position: absolute;
+    left: 510px;
+    top:95px ;
+    font: 12px "Verdana";
+    color: white;
+}
+a{
+    padding-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+#logo{
+    position: absolute;
+    left: 125px;
+    top: 5px;
+    font: 28px "Myriad Pro";
+    color: white;
+}
+#logoPart2{
+    color:#083d69;
+}
+#logoPart3{
+    position: absolute;
+    font: 11px "Verdana";
+    color:#083d69;
+    top: 45px;
+    left: 200px;
+}
+#slogan{
+    position: absolute;
+    left: 535px;
+    top: 23px;
+    font: 24px "Times New Roman";
+    color: white;
+}
+.mid{
+    position: absolute;
+    background-image: url("../pic/middleBack.png");
+    width: 302px;
+    height: 311px;
+    top: 530px;
+}
+#mid1{
+    left: 125px;
+}
+#mid2{
+    left: 449px;
+    z-index: 2;
+}
+#mid3{
+    left: 774px;
+}
+#ContactBut{
+    position: absolute;
+    background-image: url("../pic/conBut.png");
+    width: 142px;
+    height: 63px;
+    left: 125px;
+    top: 457px;
+}
+#ConButIn{
+    font: 18px "Verdana";
+    position: absolute;
+    left: 147px;
+    top: 455px;
+    color: white;
+}
+#Text1{
+    font: 18px "Verdana";
+    position: absolute;
+    left: 273px;
+    top: 456px;
+    color:#676767;
+}
+.galBack{
+    position: absolute;
+    top: 866px;
+    width: 222px;
+    height: 134px;
+    background-color: #f1f1f1;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#gal1Back{
+    left: 125px;
+    background-image: url("../pic/gal4.png");
+}
+#gal2Back{
+    left: 367px;
+    background-image: url("../pic/gal3.png");
+}
+#gal3Back{
+    left: 609px;
+    background-image: url("../pic/gal2.png");
+}
+#gal4Back{
+    left: 851px;
+    background-image: url("../pic/gal1.png");
+}
+#Mid1Text{
+    position: absolute;
+    font:18px "Verdana";
+    left: 149px;
+    top: 531px;
+    color: #5d5d5d;
+}
+#BB{
+    color: #0d5b9b;
+}
+#Mid1TextDown{
+    color: #b3b4b4;
+    position: absolute;
+    top: 560px;
+    left: 149px;
+    font:14px "Verdana" ;
+}
+#Mid1Info{
+    position: absolute;
+    left: 149px;
+    top: 610px;
+    width: 260px;
+    text-align: justify;
+    word-break: normal;
+    font: 14px "Verdana Regular";
+    color: #676767;
+}
+#Mid2Text{
+    position: absolute;
+    left: 470px;
+    top: 530px;
+    font: 18px "Verdana";
+    color: #0d5b9b;
+}
+#BS{
+    color: #0d5b9b;
+}
+#Mid2Info{
+    position: absolute;
+    left: 470px;
+    top: 555px;
+}
